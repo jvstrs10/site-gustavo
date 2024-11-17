@@ -40,7 +40,7 @@ for (let i = 1; i <= totalImages; i++) {
     const img = document.createElement("img");
 
     // Define o caminho da imagem com base nos nomes dos arquivos numerados
-    img.src = `img/1/${i}.jpg`;
+    img.src = `1/${i}.jpg`;
 
     // Define uma classe para estilização (opcional)
     img.classList.add("image-style");
@@ -59,7 +59,7 @@ for (let i = 1; i <= totalImages2; i++) {
     const img = document.createElement("img");
 
     // Define o caminho da imagem com base nos nomes dos arquivos numerados
-    img.src = `img/2/${i}.jpg`;
+    img.src = `2/${i}.jpg`;
 
     // Define uma classe para estilização (opcional)
     img.classList.add("image-style");

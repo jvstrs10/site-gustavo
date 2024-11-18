@@ -91,14 +91,5 @@ body {
       margin-bottom: 10px; /* espaço entre as imagens */
     }
 
-  #imageContainer2 {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .image-style {
-      width: 600px; /* ajuste o tamanho conforme necessário */
-      margin-bottom: 10px; /* espaço entre as imagens */
-    }
   
   
